@@ -1,2 +1,1 @@
-Ini adalah pertama kalinya saya mengerjakan test coding mengenai Wordpress, meskipun saya memahami bahasa pemrograman PHP tapi saya masih harus banyak belajar mengenai wordpress terutama untuk kustomisasi plugin dan theme.
-Project ini memang tidak maksimal tapi saya banyak belajar mengenai struktur file pada wordpress core dan tidak memungkinkan untuk mempelajari dalam beberapa hari, meskipun demikian tapi saya berkeinginan untuk belajar lebih lanjut mengenai Wordpress Developer
+Wordpress Development
